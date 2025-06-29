@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GodwinGeorge
-- 👀 I’m interested in Natural language processing, Deep learning, Machine learning, computer vision tasks.
-- 🌱 I’m currently learning Masters in Artificial intelligence.
-- 💞️ I’m looking to collaborate on different teams who develop AI products.
+- 👀 Software Engineer| ⚙️ Motorcycle Brakes. I’m interested in braking safety, Deep learning, Machine learning, computer vision tasks,Natural language processing,.
+- 🌱 I’m currently learning bla bla bla.
 - 📫 How to reach me https://www.linkedin.com/in/godwin-george-/
 
 <!---
