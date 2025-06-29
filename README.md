@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GodwinGeorge
-- 👀 Software Engineer| ⚙️ Motorcycle Brakes. I’m interested in braking safety, Deep learning, Machine learning, computer vision tasks,Natural language processing,.
+- 👀 Software Engineer| ⚙️ Motorcycle Brakes. I’m interested in braking safety, Deep learning, Machine learning, computer vision and natural language processing,.
 - 🌱 I’m currently learning bla bla bla.
 - 📫 How to reach me https://www.linkedin.com/in/godwin-george-/
 
